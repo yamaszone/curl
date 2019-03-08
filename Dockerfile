@@ -1,3 +1,3 @@
 FROM alpine:3.9
 
-RUN apk --update curl
+RUN apk add --update curl
